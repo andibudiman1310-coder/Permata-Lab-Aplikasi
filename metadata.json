@@ -1,0 +1,6 @@
+{
+  "name": "PERMATA LAB - UPTD Puskesmas Sanga-sanga",
+  "description": "Portal Layanan & Manajemen Laboratorium Terintegrasi UPTD Puskesmas Sanga-sanga 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
